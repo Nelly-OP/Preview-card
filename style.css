@@ -89,6 +89,9 @@ button{
     padding-left: 70px;
     padding-right: 70px;
 }
+button:hover{
+    background-color: hsl(156, 42%, 18%);
+}
 .cart{
     padding-right: 5px;
     height: 10px;
