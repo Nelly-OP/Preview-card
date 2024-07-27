@@ -75,7 +75,6 @@ h3::after {
     transform: translateY(-50%); /* Center the line vertically */
 }
 .total{
-    
     font-size: 35px;
     font-family:'Fraunces', sans-serif;
     font-weight: 700;
